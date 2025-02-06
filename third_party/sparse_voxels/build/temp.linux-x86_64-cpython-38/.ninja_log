@@ -1,0 +1,6 @@
+# ninja log v5
+2	20171	1738681038381548121	/root/autodl-tmp/Proj/3Dv_SLAM/H2-Mapping/H2-Mapping/mapping/third_party/sparse_voxels/build/temp.linux-x86_64-cpython-38/src/sample_gpu.o	8f39ab7b1b0a1063
+2	20214	1738681038425548584	/root/autodl-tmp/Proj/3Dv_SLAM/H2-Mapping/H2-Mapping/mapping/third_party/sparse_voxels/build/temp.linux-x86_64-cpython-38/src/intersect_gpu.o	7338a0c099928d85
+1	26335	1738681044513612542	/root/autodl-tmp/Proj/3Dv_SLAM/H2-Mapping/H2-Mapping/mapping/third_party/sparse_voxels/build/temp.linux-x86_64-cpython-38/src/intersect.o	3ab487d42af79f10
+0	26713	1738681044897616568	/root/autodl-tmp/Proj/3Dv_SLAM/H2-Mapping/H2-Mapping/mapping/third_party/sparse_voxels/build/temp.linux-x86_64-cpython-38/src/binding.o	81afd2f0e0cb2833
+2	26781	1738681044961617239	/root/autodl-tmp/Proj/3Dv_SLAM/H2-Mapping/H2-Mapping/mapping/third_party/sparse_voxels/build/temp.linux-x86_64-cpython-38/src/sample.o	db2acfd945575bbf

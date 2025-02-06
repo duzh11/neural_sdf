@@ -1,0 +1,3 @@
+# ninja log v5
+0	16983	1738681014841298223	/root/autodl-tmp/Proj/3Dv_SLAM/H2-Mapping/H2-Mapping/mapping/third_party/sparse_octree/build/temp.linux-x86_64-cpython-38/src/bindings.o	2737c81a8481b286
+24	14603	1738682862822934366	/root/autodl-tmp/Proj/3Dv_SLAM/H2-Mapping/H2-Mapping/mapping/third_party/sparse_octree/build/temp.linux-x86_64-cpython-38/src/octree.o	371dfceff7947351
