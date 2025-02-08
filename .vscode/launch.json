@@ -12,7 +12,7 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "args": [
-                "configs/replica/office_0.yaml"
+                "configs/gs/116456116b.yaml"
             ]
         }
     ]

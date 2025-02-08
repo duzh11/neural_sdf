@@ -4,11 +4,11 @@ exp_name: gs/116456116b
 
 data_specs:
   data_path: '/root/autodl-tmp/Proj/3Dv_Reconstruction/GS-Reconstruction/Scaffold-2DGS/exps/experiments_v0/scannetpp-2025-01-23_09:25:31/116456116b'
-  depth_scale: 1000.0
-  crop: 6
+  depth_scale: 1.0
+  crop: 0
   scale_factor: 0
   use_gt: True
-  max_depth: 10
+  max_depth: 5.0
 
 decoder_specs:
   bound: [ [ 8.0,18.0 ],[ 8.0,18.5 ],[ 8.0,16.5 ] ]
